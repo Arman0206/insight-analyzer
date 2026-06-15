@@ -98,7 +98,8 @@ cd frontend
 npm run dev
 Navigate to http://localhost:3000 to view the application.
 
-🔮 Future Enhancements
+🔮 Future Enhancements:
+
 Implement Redis caching to serve previously searched ASINs instantly.
 
 Add user authentication (NextAuth) to save personal dashboards.
